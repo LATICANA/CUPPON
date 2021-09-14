@@ -1,0 +1,59 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+nav{
+    background-color:#28A745;
+}
+
+li{
+    text-align: right;
+    color: #707070;
+    font-weight: 300;   
+}
+
+h5 {
+font-weight: 300;
+font-size: 22px;
+}
+
+span{
+    color: #28A745;
+    font-weight: 500;
+    font-size: larger;
+    
+}
+
+p{
+    font-weight: 300;
+    color: #707070;
+}
+
+section {
+    background-color: #28A745;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+footer{
+    text-align: center;
+    
+}
+
+.cuppon {
+    width: 86px;
+    height: 25px;
+}
+
+.row{
+    margin-bottom: 35px;
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+
+.logo-footer{
+    margin-top: 20px;
+    width: 82px;
+    height: 24px;
+}
